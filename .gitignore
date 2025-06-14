@@ -1,6 +1,7 @@
 #
 pdf/*.pdf
-
+chroma_data/
+chroma_data_cli/
 # Python-generated files
 __pycache__/
 *.py[oc]
